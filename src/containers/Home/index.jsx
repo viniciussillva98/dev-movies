@@ -24,7 +24,7 @@ function Home() {
 
 
         async function getAll() {
-            
+
             Promise.all([
                 getMovies(),
                 getTopMovies(),
@@ -57,7 +57,7 @@ function Home() {
                             <h1>{movies.title}</h1>
                             <p>{movies.overview}</p>
                             <Buttons>
-                                <Button red={true} onClick={() => navigate(`/detail/${movies.id}`)}>Assista agora</Button>
+                                <Button red={true} onClick={() => navigate(`/detail/${movies.id}`)}>Assistir agora</Button>
                                 <Button red={false} onClick={() => setShowModal(true)}>Assistir trailer</Button>
                             </Buttons>
                         </Info>
