@@ -1,12 +1,21 @@
-# React + Vite
+### Esse é o DevMovies, um projeto que desenvolvi junto ao DevClub.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ferramentas ultilizadas :
+### Frontend:
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-Currently, two official plugins are available:
+#### IDEs:
+<img src="https://camo.githubusercontent.com/b8ae82ffde62bb5ad395fce80cab7d09428adac59817744147b54a742ce3c6e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"/>
+<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="https://raw.githubusercontent.com/viniciussillva98/dev-movies/912fc0c63a1d9c80057a762d36f00069c4875817/src/assets/Captura%20de%20tela%20home.png"/>
 
-## Expanding the ESLint configuration
+<img src="https://raw.githubusercontent.com/viniciussillva98/dev-movies/912fc0c63a1d9c80057a762d36f00069c4875817/src/assets/Captura%20de%20tela%20home%20detalhes%20do%20filme.png" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/a2e6c9b3-d0fb-4482-a3b3-5697ca19613e" />
+
+
+<img src="https://raw.githubusercontent.com/viniciussillva98/dev-movies/912fc0c63a1d9c80057a762d36f00069c4875817/src/assets/Captura%20de%20tela%20series.png" />
+
+<img src="https://raw.githubusercontent.com/viniciussillva98/dev-movies/912fc0c63a1d9c80057a762d36f00069c4875817/src/assets/Captura%20de%20tela%20series%20trailer.png" />
